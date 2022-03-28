@@ -27,7 +27,7 @@ I then pivoted to the last remaining document, the job offer letter which had no
 ** INSERT PROPERTIES IMAGE **
 
 I quickly went to cross reference this name in the previous data breach dump file and low and behold, Bianka Phelps was in it with the password "Love!July2018"
-So I tested this directly in the Key file but to no avail, it didn't work. I looked at the password again and realised that there was a month and a year inside it, maybe this company has a password rotation policy that forces employees to change their password every so often and Bianka chose to have a rules based on time in her password. Using this knowledge + the hypothesis that the key was created the same day as the job offer letter, I tried "Love!March2019" and POOF, IT WORKED!
+So I tested this directly in the Key file but to no avail, it didn't work. I looked at the password again and realised that there was a month and a year inside it, maybe this company has a password rotation policy that forces employees to change their password every so often and Bianka chose to have a pattern based on time in her password. Using this knowledge + the hypothesis that the key was created the same day as the job offer letter, I tried "Love!March2019" and POOF, IT WORKED!
 
 ** INSERT PASSWORD IMAGE **
 
@@ -36,4 +36,5 @@ Out came a key that seemed to be base64 encoded so I ran to my trusting conversi
 (I won't post the key here, please try the challenge yourself, it's good practice)
 
 <h3>Takeaways</h3>
+1) Always use passwords that don't contain recuring patterns if you have to change it. An old breach can come back to haunt you!
 
