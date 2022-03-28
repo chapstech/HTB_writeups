@@ -35,6 +35,6 @@ Out came a key that seemed to be base64 encoded so I ran to my trusting conversi
 
 (I won't post the key here, please try the challenge yourself, it's good practice)
 
-<h3>Takeaways</h3>
+<h3>Takeaway</h3>
 1) Always use passwords that don't contain recuring patterns if you have to change it. An old breach can come back to haunt you!
 
