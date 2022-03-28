@@ -10,6 +10,7 @@ Super Secure Startup's private information is being leaked; can you find out how
 
 <h3>Writeup</h3>
 
+Now before we begin, i'd like to state that this is an easy challenge but I stumbled so much on one part of it that I categorized it as medium
 
 (I won't post the key here, please try the challenge yourself, it's good practice)
 
