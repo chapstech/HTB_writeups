@@ -22,4 +22,10 @@ This was the first OSINT challenge I attemped on Hack The Box so I wasn't famili
 
 In the dump, you can see that there are some names, usernames, passwords, etc. but there is so much information that I don't know what to do with it yet. So I turned my attention to the other 2 files, the Job offer letter and the key. I tried to simply open the key file but it required a password. After quick and cheesy password tests using simple passwords like "admin", "password", "supersecurestartup", "supersecurepassword", I found out that it would take an eternity to try and guess it and the info must be hidden somewhere in the data breach dump. 
 
-I then pivoted to the last remaining document, the job offer letter which had no usefull information in the letter itself BUT I thought to myself, this is an OSINT challenge, why not look at the documents properties. There I found ou first usefull hint! The document was created by Bianka Phelps on 
+I then pivoted to the last remaining document, the job offer letter which had no usefull information in the letter itself except the domain name of the company @supersecurestartup.com BUT I thought to myself, this is an OSINT challenge, why not look at the documents properties. There I found ou first usefull hint! The document was created by **Bianka Phelps** on **2019-03-26**. HEY, A NAME! 
+
+** INSERT PROPERTIES IMAGE **
+
+I quickly went to cross reference this name in the previous data breach dump file and low and behold, Bianka Phelps was in it with the password 
+
+** INSERT PROPERTIES IMAGE **
