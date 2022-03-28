@@ -1,3 +1,20 @@
+<h1>SPOILERS AHEAD! PLEASE SPEND TIME TO TRY AND SOLVE THIS BEFORE LOOKING AT THE WRITEUP</h1>
 
 
-<H1>SPOILERS AHEAD! PLEASE SPEND TIME TO TRY AND SOLVE THIS BEFORE LOOKING AT THE WRITEUP</H1>
+<h2>Difficulty rating : MEDIUM 🟡 </h2> 
+
+
+<h3>Challenge description</h3>
+Super Secure Startup's private information is being leaked; can you find out how?
+
+
+<h3>Writeup</h3>
+
+
+(I won't post the key here, please try the challenge yourself, it's good practice)
+
+<h3>Takeaway</h3>
+1) Posting on social media can lead to leaking private company information even if the intention is good. Be mindful of what you post 
+
+
+<h3>Mind map</h3>
