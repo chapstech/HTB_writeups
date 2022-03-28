@@ -1,7 +1,7 @@
 <h1>SPOILERS AHEAD! PLEASE SPEND TIME TO TRY AND SOLVE THIS BEFORE LOOKING AT THE WRITEUP</h1>
 
 
-<h2>Difficulty rating : EASY</h2> 
+<h2>Difficulty rating : EASY 🟢 </h2> 
 
 
 <h3>Challenge description</h3>
