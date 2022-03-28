@@ -39,4 +39,4 @@ Out came a key that seemed to be base64 encoded so I ran to my trusting conversi
 
 
 <h3>Mind map</h3>
-<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/OSINT/Breach/Breach%20-%20Mind%20map.png">
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/OSINT/Breach/Images/Breach%20-%20Mind%20map.png">
