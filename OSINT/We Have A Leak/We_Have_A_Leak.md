@@ -19,4 +19,4 @@ Now before we begin, i'd like to state that this is an easy challenge but I stum
 
 
 <h3>Mind map</h3>
-<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/OSINT/We%20Have%20A%20Leak/Images/WeHaveALeak%20-%20Mind%20Map.png">
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/OSINT/We%20Have%20A%20Leak/Images/Mind%20Map%20.png">
