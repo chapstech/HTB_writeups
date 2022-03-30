@@ -21,7 +21,7 @@ With nothing to lose in a VM, I installed this sketchy tool. (For windows users,
 
 Lets power it up!!
 
-<img src=""> Insert CheatEngine screenshot
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/cheatengineopening.png">
 
 AHHH the glorious nostalgia! 
 
