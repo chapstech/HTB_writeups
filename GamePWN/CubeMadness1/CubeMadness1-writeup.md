@@ -47,18 +47,18 @@ Still a lot of addresses, 40 080 to be exact!! So I'll grab a second cube and sa
 
 <img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/adresses%20found%204.png">
 
+Once we have a reasonable amount of addresses, you can double click on each one to bring them to the pane underneath and if you double click on the value field, in our case we don't wan't 4 cubes collected, we wan't 20 so we just have to modify the 4 for 20. Do this for each address or until you see the number of cubes collected change!
+
 <img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/modifying%20values.png">
+
+TA DAM!
+
 <img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/win.png">
-
-
-
 
 
 
 (I won't post the key here, please try the challenge yourself, it's good practice)
 
 Takeaway
-
-
-Mind map
+- Allowing clients to modify core values to the game is a bad idea if you wan't to prevent cheating. Memory can easily be accessed and modified at will pretty easily. For a multiplayer game, a client-server model with server side logic/validation would be more appropriate mixed with a good anti cheat software. 
 
