@@ -10,7 +10,7 @@ I'll preface this by saying that this is the first GamePwn I try but I had a bit
 
 I started by trying to play the game and understand the basic rules. It seems to be quite simple, move with the WASD keys, Jump with space and collect 20 cubes. However, there are only 6 cubes in the scene!
 
-<img src="Insert Game img">
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/game.png">
 
 The challenge is pretty straight forward but you need to know which tools to use. I am a Unity engine hobbyist so when I recieved the original file I was glad to see that the game was made in Unity Engine.
 My first step was to naturally try to open it with Unity or to import ressources and asset files into unity to see what I can extract. Spoiler, it didn't work! At least for me :)
