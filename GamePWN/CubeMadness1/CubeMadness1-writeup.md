@@ -36,14 +36,19 @@ Now the work starts, we know that the objectif of the game is to get 20 cubes, s
 
 In cheat engine, i'll precicely target this value starting with a value of 0 in the value field and click "New Scan"
 
-<img src="Insert first scan 0">
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/new%20scan%200.png">
 
 Out comes a tooon of results! Way too much to handle so lets refine our search with a second search. In the game I will jump to try and get my first cube. Now with a score of 1, i'll input this new value in cheatengine and do a second scan. Cheat engine will track the adresses that follow this pattern
 
-<img src="Insert second search">
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/1%20cube%20collected.png">
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/next%20scan%201.png">
 
-Still a lot of addresses that I don't wan't to change for nothing so I'll grab a second cube and same this, input this value in cheat engine and make another search.
+Still a lot of addresses, 40 080 to be exact!! So I'll grab a second cube and same this, input this value in cheat engine and make another scan. Continue this process until you have a reasonable amount of addresses. Here, it took me 4 cubes to get 3 addresses which is a more manageable number.
 
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/adresses%20found%204.png">
+
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/modifying%20values.png">
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/win.png">
 
 
 
