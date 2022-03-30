@@ -6,8 +6,31 @@
 <h3>Challenge description</h3>
 Gotta collect them all.
 
-
 I'll preface this by saying that this is the first GamePwn I try but I had a bit of experience around 15 years ago with one of the tools we are going to use, which is Cheatengine.
+
+The challenge is pretty straight forward but you need to know which tools to use. I am a Unity engine hobbyist so when I recieved the original file I was glad to see that the game was made in Unity Engine.
+My first step was to naturally try to open it with Unity or to import ressources and asset files into unity to see what I can extract. Spoiler, it didn't work! At least for me :)
+
+So I pivoted to an old tool I remember using in my teens when I was messing around with trying to hack into games, Cheat Engine! This was a super tool that allowed you to read the memory contents of a program while it was executed wich was a fast and easy way to cheat in single player games and even some multiplayer games.
+
+With nothing to lose in a VM, I installed this sketchy tool. (For windows users, you might need to allow the program through your antivirus, do at your own risk)
+
+Lets power it up!!
+
+<img src=""> Insert CheatEngine screenshot
+
+AHHH the glorious nostalgia! 
+
+The way the tool works (Or the way I used it in the past) is that you can input a value you are looking for in memory and modify the corresponding address's value. However you will soon see that there are thousands of indentical values in memory, we will ahve to refine our search.
+Let's deal with that later, with cheatengine open, lets run the game! 
+
+<img src=""> Insert Game screenshot
+
+Now to tell cheatengine what program you are searching through, you will need to select it in the pane you see below while it is running.
+
+<img src=""> Insert open program pane
+
+
 
 
 (I won't post the key here, please try the challenge yourself, it's good practice)
