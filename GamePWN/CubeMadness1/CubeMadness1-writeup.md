@@ -5,7 +5,9 @@
 
 <h3>Challenge description</h3>
 Gotta collect them all.
-<br>
+<br />
+<br />
+<br />
 I'll preface this by saying that this is the first GamePwn I try but I had a bit of experience around 15 years ago with one of the tools we are going to use, which is Cheatengine.
 
 I started by trying to play the game and understand the basic rules. It seems to be quite simple, move with the WASD keys, Jump with space and collect 20 cubes. However, there are only 6 cubes in the scene!
