@@ -29,7 +29,7 @@ The way the tool works (Or the way I used it in the past) is that you can input 
 Let's deal with that later, with cheatengine open, lets run the game! 
 Now to tell cheatengine what program you are searching through, you will need to select it in the pane you see below while it is running.
 
-<img src=""> Insert open program pane
+<img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/open%20process.png">
 
 
 Now the work starts, we know that the objectif of the game is to get 20 cubes, so lets try to hack our score to show 20/20.
