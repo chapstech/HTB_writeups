@@ -23,7 +23,7 @@ Lets power it up!!
 
 <img src="https://github.com/olivierchaput/HTB_writeups/blob/main/GamePWN/CubeMadness1/Images/cheatengineopening.png">
 
-AHHH the glorious nostalgia! 
+AHHH the nostalgia! 
 
 The way the tool works (Or the way I used it in the past) is that you can input a value you are looking for in memory and modify the corresponding address's value. However you will soon see that there are thousands of indentical values in memory, we will ahve to refine our search.
 Let's deal with that later, with cheatengine open, lets run the game! 
