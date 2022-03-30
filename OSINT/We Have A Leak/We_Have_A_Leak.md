@@ -34,10 +34,11 @@ These twitter accounts offered us a treasure trove of information and the first 
 
 <img src="https://github.com/olivierchaput/HTB_writeups/blob/main/OSINT/We%20Have%20A%20Leak/Images/Password_Discovery.png">
 
-For the ones with 20/20 eyesight, you might have noticed in the bottom left a cleartext password that seems to be pointing to an SSH login. 
+For the ones with 20/20 eyesight, you might have noticed in the bottom left a cleartext password that seems to be pointing to an SSH login. If we look at the files we recieved, the base file hints to an SSH login with the filename being "mock_ssh_login".
 
 <img src="https://github.com/olivierchaput/HTB_writeups/blob/main/OSINT/We%20Have%20A%20Leak/Images/Cleartext_Password.png">
 
+So I tried entering the password we found SupSecStart#Winter2018!
 
 
 
